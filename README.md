@@ -25,7 +25,7 @@ Me gusta crear soluciones útiles que combinen **tecnología y estrategia **.
 ---
 
 ### 📫 Contacto
-📩 **juangomez.dev@gmail.com**  
+📩 **juangomez.devp@gmail.com**  
 💼 <!--[LinkedIn (opcional, si tienes)](https://linkedin.com)-->
 
 ---
