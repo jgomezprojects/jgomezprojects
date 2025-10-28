@@ -1,9 +1,9 @@
 # ☕ Juan Gómez
 
-### 💻 Desarrollador Web | Python | Finanzas Tech  
+### 💻 Desarrollador Web 
 
-Soy estudiante de Ingeniería en Sistemas apasionado por la programación, el diseño web y las finanzas digitales.  
-Me gusta crear soluciones útiles que combinen **tecnología y estrategia financiera**.  
+Soy estudiante de Ingeniería en Sistemas apasionado por la programación, el diseño web y las habilidades digitales.  
+Me gusta crear soluciones útiles que combinen **tecnología y estrategia **.  
 
 ---
 
@@ -15,7 +15,6 @@ Me gusta crear soluciones útiles que combinen **tecnología y estrategia financ
 ### 🛠️ Habilidades
 - HTML, CSS y JavaScript (Diseño Web)
 - Python (Automatización y Lógica)
-- Gestión de proyectos y Finanzas Personales
 - Git y GitHub para control de versiones
 
 ---
@@ -27,7 +26,7 @@ Me gusta crear soluciones útiles que combinen **tecnología y estrategia financ
 
 ### 📫 Contacto
 📩 **juangomez.dev@gmail.com**  
-💼 [LinkedIn (opcional, si tienes)](https://linkedin.com)
+💼 <!--[LinkedIn (opcional, si tienes)](https://linkedin.com)-->
 
 ---
 
